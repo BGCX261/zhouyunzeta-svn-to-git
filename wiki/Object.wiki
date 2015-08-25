@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+A background agent capturing certain instances and reacting correspondly
+
+
+= Details =
+
+ * A agent run in the background
+ * Watch the progresses and the disk
+ * Analyze the message and react
+ * Interface to programme the reaction
